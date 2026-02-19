@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HypothesisHub.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+053d5926495362f18db69dc0346720558f9084e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a81d9e54107fa92f42c51ca103ce1c622b0e833")]
 [assembly: System.Reflection.AssemblyProductAttribute("HypothesisHub.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HypothesisHub.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
